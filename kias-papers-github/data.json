@@ -1,0 +1,1899 @@
+[
+ {
+  "id": "LY4Izs0AAAAJ",
+  "label": "천현명 박사님",
+  "name": "Hyun-Myung Chun",
+  "affiliation": "Postdoc,Korea Institute for Advanced Study",
+  "interests": [
+   "nonequilibrium statistical physics",
+   "stochastic thermodynamics",
+   "large deviation theory",
+   "quantum thermodynamics"
+  ],
+  "papers": [
+   {
+    "title": "Nonequilibrium Fluctuation-Response Theory in the Frequency Domain",
+    "authors": "E Kwon, HM Chun, H Park, JS Lee",
+    "venue": "arXiv preprint arXiv:2605.05038, 2026",
+    "year": "2026",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:4TOpqqG69KYC",
+    "arxiv": "2605.05038",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr"
+    ]
+   },
+   {
+    "title": "Fluctuation-response theory for nonequilibrium Langevin dynamics",
+    "authors": "HM Chun, E Kwon, H Park, JS Lee",
+    "venue": "arXiv preprint arXiv:2601.16387, 2026",
+    "year": "2026",
+    "cited": "4",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:_kc_bZDykSQC",
+    "arxiv": "2601.16387",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr"
+    ]
+   },
+   {
+    "title": "Fluctuation-response inequalities for kinetic and entropic perturbations",
+    "authors": "E Kwon, HM Chun, H Park, JS Lee",
+    "venue": "Physical Review Letters 135 (9), 097101, 2025",
+    "year": "2025",
+    "cited": "38",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:Zph67rFs4hoC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr",
+     "tr"
+    ]
+   },
+   {
+    "title": "Power-efficiency trade-off for the finite-time quantum harmonic Otto heat engine via a phase-space approach",
+    "authors": "HM Chun, JM Park",
+    "venue": "Physical Review E 112 (1), L012101, 2025",
+    "year": "2025",
+    "cited": "5",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:ULOm3_A8WrAC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he",
+     "qt"
+    ]
+   },
+   {
+    "title": "Thermodynamic constraints on kinetic perturbations of homogeneous driven diffusions",
+    "authors": "Q Gao, HM Chun, JM Horowitz",
+    "venue": "Europhysics Letters 146 (3), 31001, 2024",
+    "year": "2024",
+    "cited": "18",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:kNdYIx-mwKoC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr",
+     "tr"
+    ]
+   },
+   {
+    "title": "Heterogeneous Mean First-Passage Time Scaling in Fractal Media",
+    "authors": "HM Chun, S Hwang, B Kahng, H Rieger, JD Noh",
+    "venue": "Physical Review Letters 131 (22), 227101, 2023",
+    "year": "2023",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:3fE2CSJIrl8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rs"
+    ]
+   },
+   {
+    "title": "Time-Reversal Symmetry and Thermodynamic Forces",
+    "authors": "HM Chun",
+    "venue": "Physics 16, 142, 2023",
+    "year": "2023",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:MXK_kJrjxJIC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Trade-offs between number fluctuations and response in nonequilibrium chemical reaction networks",
+    "authors": "HM Chun, JM Horowitz",
+    "venue": "The Journal of Chemical Physics 158 (17), 174115, 2023",
+    "year": "2023",
+    "cited": "35",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:5nxA0vEk-isC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr",
+     "tr"
+    ]
+   },
+   {
+    "title": "Thermodynamic constraints on the nonequilibrium response of one-dimensional diffusions",
+    "authors": "Q Gao, HM Chun, JM Horowitz",
+    "venue": "Physical Review E 105 (1), L012102, 2022",
+    "year": "2022",
+    "cited": "19",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:hqOjcs7Dif8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr",
+     "tr"
+    ]
+   },
+   {
+    "title": "Nonequilibrium Green-Kubo relations for hydrodynamic transport from an equilibrium-like fluctuation-response equality",
+    "authors": "HM Chun, Q Gao, JM Horowitz",
+    "venue": "Physical Review Research 3 (4), 043172, 2021",
+    "year": "2021",
+    "cited": "31",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:Se3iqnhoufwC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr"
+    ]
+   },
+   {
+    "title": "Free diffusion bounds the precision of currents in underdamped dynamics",
+    "authors": "LP Fischer, HM Chun, U Seifert",
+    "venue": "Physical Review E 102 (1), 012120, 2020",
+    "year": "2020",
+    "cited": "41",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:YsMSGLbcyi4C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr"
+    ]
+   },
+   {
+    "title": "Exactly solvable two-terminal heat engine with asymmetric Onsager coefficients: Origin of the power-efficiency bound",
+    "authors": "JS Lee, JM Park, HM Chun, J Um, H Park",
+    "venue": "Physical Review E 101 (5), 052132, 2020",
+    "year": "2020",
+    "cited": "20",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:_FxGoFyzp5QC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he"
+    ]
+   },
+   {
+    "title": "Quantum mechanical bound for efficiency of quantum Otto heat engine",
+    "authors": "JM Park, S Lee, HM Chun, JD Noh",
+    "venue": "Physical Review E 100 (1), 012148, 2019",
+    "year": "2019",
+    "cited": "23",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:W7OEmFMy1HYC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he",
+     "qt"
+    ]
+   },
+   {
+    "title": "Effect of a magnetic field on the thermodynamic uncertainty relation",
+    "authors": "HM Chun, LP Fischer, U Seifert",
+    "venue": "Physical Review E 99 (4), 042128, 2019",
+    "year": "2019",
+    "cited": "81",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:Y0pCki6q_DkC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr"
+    ]
+   },
+   {
+    "title": "Universal property of the housekeeping entropy production",
+    "authors": "HM Chun, JD Noh",
+    "venue": "Physical Review E 99 (1), 012136, 2019",
+    "year": "2019",
+    "cited": "18",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:UeHWp8X0CEIC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Emergence of nonwhite noise in Langevin dynamics with magnetic Lorentz force",
+    "authors": "HM Chun, X Durang, JD Noh",
+    "venue": "Physical Review E 97 (3), 032117, 2018",
+    "year": "2018",
+    "cited": "54",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:2osOgNQ5qMEC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Microscopic theory for the time irreversibility and the entropy production",
+    "authors": "HM Chun, J Dong Noh",
+    "venue": "Journal of Statistical Mechanics: Theory and Experiment 2018 (2), 023208, 2018",
+    "year": "2018",
+    "cited": "17",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:9yKSN-GCB0IC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Efficiency at maximum power and efficiency fluctuations in a linear Brownian heat-engine model",
+    "authors": "JM Park, HM Chun, JD Noh",
+    "venue": "Physical Review E 94 (1), 012127, 2016",
+    "year": "2016",
+    "cited": "58",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:u-x6o8ySG0sC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he"
+    ]
+   },
+   {
+    "title": "Macroscopic time-reversal symmetry breaking at a nonequilibrium phase transition",
+    "authors": "PS Shim, HM Chun, JD Noh",
+    "venue": "Physical Review E 93 (1), 012113, 2016",
+    "year": "2016",
+    "cited": "34",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:d1gkVwhDpl0C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep",
+     "nw"
+    ]
+   },
+   {
+    "title": "Hidden entropy production by fast variables",
+    "authors": "HM Chun, JD Noh",
+    "venue": "Physical Review E 91 (5), 052128, 2015",
+    "year": "2015",
+    "cited": "35",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LY4Izs0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=LY4Izs0AAAAJ:u5HHmVD_uO8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "XZIobAQAAAAJ",
+  "label": "이재성 교수님",
+  "name": "Jae Sung Lee",
+  "affiliation": "Professor,Korea Institute for Advanced Study",
+  "interests": [
+   "stochastic thermodynamics",
+   "resistive switching",
+   "network theory"
+  ],
+  "papers": [
+   {
+    "title": "Nonequilibrium Fluctuation-Response Theory in the Frequency Domain",
+    "authors": "E Kwon, HM Chun, H Park, JS Lee",
+    "venue": "arXiv preprint arXiv:2605.05038, 2026",
+    "year": "2026",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:35N4QoGY0k4C",
+    "arxiv": "2605.05038",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr"
+    ]
+   },
+   {
+    "title": "Thermodynamic anomalies in overdamped systems with time-dependent temperature",
+    "authors": "S Awasthi, H Park, JS Lee",
+    "venue": "Communications Physics 9 (1), 140, 2026",
+    "year": "2026",
+    "cited": "1",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:NMxIlDl6LWMC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "pd"
+    ]
+   },
+   {
+    "title": "Fluctuation-Response Theory for Nonequilibrium Langevin Dynamics",
+    "authors": "HM Chun, E Kwon, H Park, JS Lee",
+    "venue": "arXiv preprint arXiv:2601.16387, 2026",
+    "year": "2026",
+    "cited": "4",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:vV6vV6tmYwMC",
+    "arxiv": "2601.16387",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr"
+    ]
+   },
+   {
+    "title": "Violation of kinetic uncertainty relation in maser heat engines: Role of spontaneous emission",
+    "authors": "V Singh, E Kwon, JS Lee",
+    "venue": "Physical Review A 113 (1), 012212, 2026",
+    "year": "2026",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:BqipwSGYUEgC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr",
+     "qt"
+    ]
+   },
+   {
+    "title": "Coherence enhanced by detrained oscillators: Breaking π-reflection symmetry",
+    "authors": "H Hong, JS Lee, H Park",
+    "venue": "Chaos: An Interdisciplinary Journal of Nonlinear Science 35 (12), 2025",
+    "year": "2025",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:ns9cj8rnVeAC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "sy"
+    ]
+   },
+   {
+    "title": "A unified framework for classical and quantum uncertainty relations using stochastic representations",
+    "authors": "E Kwon, JS Lee",
+    "venue": "Communications Physics 8 (1), 444, 2025",
+    "year": "2025",
+    "cited": "15",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:hMod-77fHWUC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr",
+     "qt"
+    ]
+   },
+   {
+    "title": "Speed limits for discrete-time Markov chains",
+    "authors": "S Lee, JS Lee, JM Park",
+    "venue": "Physical Review E 112 (4), 044132, 2025",
+    "year": "2025",
+    "cited": "4",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:O3NaXMp0MMsC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr"
+    ]
+   },
+   {
+    "title": "Fluctuation-response inequalities for kinetic and entropic perturbations",
+    "authors": "E Kwon, HM Chun, H Park, JS Lee",
+    "venue": "Physical Review Letters 135 (9), 097101, 2025",
+    "year": "2025",
+    "cited": "38",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:GnPB-g6toBAC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr",
+     "tr"
+    ]
+   },
+   {
+    "title": "Memory-aware feedback enhances power in active information engines",
+    "authors": "S Bahng, JS Lee, CM Ghim",
+    "venue": "arXiv preprint arXiv:2508.16866, 2025",
+    "year": "2025",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:RYcK_YlVTxYC",
+    "arxiv": "2508.16866",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "it",
+     "am"
+    ]
+   },
+   {
+    "title": "Thermodynamic uncertainty relation for systems with active Ornstein–Uhlenbeck particles",
+    "authors": "HT Han, JS Lee, JH Jeon",
+    "venue": "PNAS Nexus 4 (6), pgaf160, 2025",
+    "year": "2025",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:M3NEmzRMIkIC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr",
+     "am"
+    ]
+   },
+   {
+    "title": "Active motion can be beneficial for target search with resetting in a thermal environment",
+    "authors": "PS Pal, JM Park, A Pal, H Park, JS Lee",
+    "venue": "Physical Review E 110 (5), 054124, 2024",
+    "year": "2024",
+    "cited": "14",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:JV2RwH3_ST0C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rs",
+     "am"
+    ]
+   },
+   {
+    "title": "Unified hierarchical relationship between thermodynamic tradeoff relations",
+    "authors": "E Kwon, JM Park, JS Lee, Y Baek",
+    "venue": "Physical Review E 110 (4), 044131, 2024",
+    "year": "2024",
+    "cited": "21",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:isC4tDSrTZIC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr"
+    ]
+   },
+   {
+    "title": "Stochastic differential equation for a system coupled to a thermostatic bath via an arbitrary interaction Hamiltonian",
+    "authors": "JM Park, H Park, JS Lee",
+    "venue": "Physical Review E 110 (1), 014143, 2024",
+    "year": "2024",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:bEWYMUwI8FkC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Estimating entanglement entropy via variational quantum circuits with classical neural networks",
+    "authors": "S Lee, H Kwon, JS Lee",
+    "venue": "Physical Review E 109 (4), 044117, 2024",
+    "year": "2024",
+    "cited": "15",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:r0BpntZqJG4C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "qt",
+     "ml"
+    ]
+   },
+   {
+    "title": "Thermodynamic trade-off relation for first passage time in resetting processes",
+    "authors": "PS Pal, A Pal, H Park, JS Lee",
+    "venue": "Physical Review E 108 (4), 044117, 2023",
+    "year": "2023",
+    "cited": "30",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:j3f4tGmQtD8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rs",
+     "tr"
+    ]
+   },
+   {
+    "title": "Colloidal heat engine driven by engineered active noise",
+    "authors": "JAC Albay, ZY Zhou, CH Chang, HY Chen, JS Lee, CH Chang, Y Jun",
+    "venue": "Physical Review Research 5 (3), 033208, 2023",
+    "year": "2023",
+    "cited": "18",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:iH-uZ7U-co4C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he",
+     "am"
+    ]
+   },
+   {
+    "title": "Swarmalators with thermal noise",
+    "authors": "H Hong, KP O'Keeffe, JS Lee, H Park",
+    "venue": "Physical Review Research 5 (2), 023105, 2023",
+    "year": "2023",
+    "cited": "48",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:_Qo2XoVZTnwC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "sy",
+     "am"
+    ]
+   },
+   {
+    "title": "Multidimensional entropic bound: Estimator of entropy production for Langevin dynamics with an arbitrary time-dependent protocol",
+    "authors": "S Lee, DK Kim, JM Park, WK Kim, H Park, JS Lee",
+    "venue": "Physical Review Research 5 (1), 013194, 2023",
+    "year": "2023",
+    "cited": "24",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:RHpTSmoSYBkC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Thermodynamic Trade-off Relation in Stochastic Resetting Process",
+    "authors": "JS Lee, P Pal, H Park",
+    "venue": "APS March Meeting Abstracts 2023, N14. 007, 2023",
+    "year": "2023",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:4JMBOYKVnBMC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rs",
+     "tr"
+    ]
+   },
+   {
+    "title": "Perturbative steady states of completely positive quantum master equations",
+    "authors": "JS Lee, J Yeo",
+    "venue": "Physical Review E 106 (5), 054145, 2022",
+    "year": "2022",
+    "cited": "19",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:TQgYirikUcIC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "qt"
+    ]
+   },
+   {
+    "title": "Speed limit for a highly irreversible process and tight finite-time Landauer’s bound",
+    "authors": "JS Lee, S Lee, H Kwon, H Park",
+    "venue": "Physical review letters 129 (12), 120603, 2022",
+    "year": "2022",
+    "cited": "78",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:HDshCWvjkbEC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr",
+     "it"
+    ]
+   },
+   {
+    "title": "Effects of the non-Markovianity and non-Gaussianity of active environmental noises on engine performance",
+    "authors": "JS Lee, H Park",
+    "venue": "Physical Review E 105 (2), 024130, 2022",
+    "year": "2022",
+    "cited": "25",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:hFOr9nPyWt4C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he",
+     "am"
+    ]
+   },
+   {
+    "title": "Resistive Switching by Percolative Conducting Filaments in Organometal Perovskite Unipolar Memory Devices Analyzed Using Current Noise Spectra",
+    "authors": "H Ahn, K Kang, Y Song, W Lee, JK Kim, J Kim, J Lee, KY Baek, J Shin, ...",
+    "venue": "Advanced Functional Materials 32 (4), 2107727, 2022",
+    "year": "2022",
+    "cited": "16",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:-f6ydRqryjwC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Link overlap influences opinion dynamics on multiplex networks of Ashkin-Teller spins",
+    "authors": "CH Kim, M Jo, JS Lee, G Bianconi, B Kahng",
+    "venue": "Physical Review E 104 (6), 064304, 2021",
+    "year": "2021",
+    "cited": "15",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:R3hNpaxXUhUC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "nw"
+    ]
+   },
+   {
+    "title": "Geometry-induced rectification for an active object",
+    "authors": "JS Lee, JM Park, JD Noh, H Park",
+    "venue": "Physical Review Research 3 (4), L042011, 2021",
+    "year": "2021",
+    "cited": "4",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:L8Ckcad2t8MC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "am"
+    ]
+   },
+   {
+    "title": "Universal form of thermodynamic uncertainty relation for Langevin dynamics",
+    "authors": "JS Lee, JM Park, H Park",
+    "venue": "Physical Review E 104 (5), L052102, 2021",
+    "year": "2021",
+    "cited": "51",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:ZeXyd9-uunAC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr"
+    ]
+   },
+   {
+    "title": "Comment on\" Universal Lindblad equation for open quantum systems\"",
+    "authors": "JS Lee, J Yeo",
+    "venue": "arXiv preprint arXiv:2011.00735, 2020",
+    "year": "2020",
+    "cited": "4",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:QIV2ME_5wuYC",
+    "arxiv": "2011.00735",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "qt"
+    ]
+   },
+   {
+    "title": "Exactly solvable two-terminal heat engine with asymmetric Onsager coefficients: Origin of the power-efficiency bound",
+    "authors": "JS Lee, JM Park, HM Chun, J Um, H Park",
+    "venue": "Physical Review E 101 (5), 052132, 2020",
+    "year": "2020",
+    "cited": "20",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:Wp0gIr-vW9MC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he"
+    ]
+   },
+   {
+    "title": "Brownian heat engine with active reservoirs",
+    "authors": "JS Lee, JM Park, H Park",
+    "venue": "arXiv preprint arXiv:2003.13189, 2020",
+    "year": "2020",
+    "cited": "50",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:4DMP91E08xMC",
+    "arxiv": "2003.13189",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he",
+     "am"
+    ]
+   },
+   {
+    "title": "Carnot efficiency and zero-entropy production rate do not guarantee reversibility of a process",
+    "authors": "JS Lee, SH Lee, J Um, H Park",
+    "venue": "Journal of the Korean Physical Society 75 (12), 948-952, 2019",
+    "year": "2019",
+    "cited": "13",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:M3ejUd6NZC8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he"
+    ]
+   },
+   {
+    "title": "Thermodynamic uncertainty relation for underdamped Langevin systems driven by a velocity-dependent force",
+    "authors": "JS Lee, JM Park, H Park",
+    "venue": "Physical Review E 100, 062132, 2019",
+    "year": "2019",
+    "cited": "59",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:qxL8FJ1GzNcC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr"
+    ]
+   },
+   {
+    "title": "Stochastic thermodynamics and hierarchy of fluctuation theorems with multiple reservoirs",
+    "authors": "JS Lee, H Park",
+    "venue": "New Journal of Physics 20 (8), 083010, 2018",
+    "year": "2018",
+    "cited": "6",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:_kc_bZDykSQC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Additivity of multiple heat reservoirs in the Langevin equation",
+    "authors": "JS Lee, H Park",
+    "venue": "Physical Review E 97 (6), 062135, 2018",
+    "year": "2018",
+    "cited": "6",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:YOwf2qJgpHMC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Carnot efficiency is reachable in an irreversible process",
+    "authors": "JS Lee, H Park",
+    "venue": "Scientific reports 7 (1), 10725, 2017",
+    "year": "2017",
+    "cited": "62",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:ULOm3_A8WrAC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "he"
+    ]
+   },
+   {
+    "title": "Brownmillerite thin films as fast ion conductors for ultimate-performance resistance switching memory",
+    "authors": "SK Acharya, J Jo, NV Raveendra, U Dash, M Kim, H Baik, S Lee, BH Park, ...",
+    "venue": "Nanoscale 9 (29), 10502-10510, 2017",
+    "year": "2017",
+    "cited": "60",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:Zph67rFs4hoC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Optimal tuning of a confined Brownian information engine",
+    "authors": "JM Park, JS Lee, JD Noh",
+    "venue": "Physical Review E 93 (3), 032146, 2016",
+    "year": "2016",
+    "cited": "29",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:KlAtU1dfN6UC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "it"
+    ]
+   },
+   {
+    "title": "Hybrid Percolation Transition in Cluster Merging Processes: Continuously Varying Exponents",
+    "authors": "YS Cho, JS Lee, HJ Herrmann, B Kahng",
+    "venue": "Physical review letters 116 (2), 025701, 2016",
+    "year": "2016",
+    "cited": "57",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:kNdYIx-mwKoC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "nw"
+    ]
+   },
+   {
+    "title": "Understanding transition between memory and threshold switching due to the compliance current",
+    "authors": "JS Lee, SH Chang",
+    "venue": "Journal of the Korean Physics Society 68, 1420, 2016",
+    "year": "2016",
+    "cited": "1",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:4TOpqqG69KYC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Resistive switching phenomena: A review of statistical physics approaches",
+    "authors": "JS Lee, S Lee, TW Noh",
+    "venue": "Applied Physics Reviews 2 (3), 031303, 2015",
+    "year": "2015",
+    "cited": "630",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:3fE2CSJIrl8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Ashkin-Teller model and diverse opinion phase transitions on multiplex networks",
+    "authors": "S Jang, JS Lee, S Hwang, B Kahng",
+    "venue": "Physical Review E 92 (2), 022110, 2015",
+    "year": "2015",
+    "cited": "50",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:MXK_kJrjxJIC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "nw"
+    ]
+   },
+   {
+    "title": "Ground-state energy of the-state Potts model: The minimum modularity",
+    "authors": "JS Lee, S Hwang, J Yeo, D Kim, B Kahng",
+    "venue": "Physical Review E 90 (5), 052140, 2014",
+    "year": "2014",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:5nxA0vEk-isC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "nw"
+    ]
+   },
+   {
+    "title": "Novel Electroforming‐Free Nanoscaffold Memristor with Very High Uniformity, Tunability, and Density",
+    "authors": "S Lee, A Sangle, P Lu, A Chen, W Zhang, JS Lee, H Wang, Q Jia, ...",
+    "venue": "Advanced materials 26 (36), 6284-6289, 2014",
+    "year": "2014",
+    "cited": "107",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:8k81kl-MbHgC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Anomalous effect due to oxygen vacancy accumulation below the electrode in bipolar resistance switching Pt/Nb: SrTiO3 cells",
+    "authors": "S Lee, JS Lee, JB Park, Y Koo Kyoung, MJ Lee, T Won Noh",
+    "venue": "Apl Materials 2 (6), 2014",
+    "year": "2014",
+    "cited": "66",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:0EnyYjriUFMC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Modified saddle-point integral near a singularity for the large deviation function",
+    "authors": "JS Lee, C Kwon, H Park",
+    "venue": "Journal of Statistical Mechanics: Theory and Experiment 2013 (11), P11002, 2013",
+    "year": "2013",
+    "cited": "7",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:hqOjcs7Dif8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Two opposite hysteresis curves in semiconductors with mobile dopants",
+    "authors": "J Sung Lee, S Buhm Lee, B Kahng, T Won Noh",
+    "venue": "Applied Physics Letters 102 (25), 2013",
+    "year": "2013",
+    "cited": "36",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:u5HHmVD_uO8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Statistical properties of the electrically induced contact resistance between two stainless steel balls",
+    "authors": "SK Kim, J Sung Lee, H Kwak, SO Kang, J Lee, IS Yu",
+    "venue": "Applied Physics Letters 102 (24), 2013",
+    "year": "2013",
+    "cited": "1",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:u-x6o8ySG0sC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Origin of variation in switching voltages in threshold-switching phenomena of VO2 thin films",
+    "authors": "SB Lee, K Kim, JS Oh, B Kahng, JS Lee",
+    "venue": "Applied Physics Letters 102 (6), 2013",
+    "year": "2013",
+    "cited": "60",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:Se3iqnhoufwC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Everlasting initial memory threshold for rare events in equilibration processes",
+    "authors": "JS Lee, C Kwon, H Park",
+    "venue": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 87 (2 …, 2013",
+    "year": "2013",
+    "cited": "24",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:UebtZRa9Y70C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep"
+    ]
+   },
+   {
+    "title": "Forming mechanism of the bipolar resistance switching in double-layer memristive nanodevices",
+    "authors": "SB Lee, HK Yoo, K Kim, JS Lee, YS Kim, S Sinn, D Lee, BS Kang, ...",
+    "venue": "Nanotechnology 23 (31), 315202, 2012",
+    "year": "2012",
+    "cited": "39",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:roLk4NBRz8UC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Disease spreading on fitness-rewired complex networks",
+    "authors": "J Yoo, JS Lee, B Kahng",
+    "venue": "Physica A: Statistical Mechanics and its Applications 390 (23-24), 4571-4576, 2011",
+    "year": "2011",
+    "cited": "18",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:LkGwnXOMwfcC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "nw"
+    ]
+   },
+   {
+    "title": "Conversion from unipolar to bipolar resistance switching by inserting Ta2O5 layer in Pt/TaOx/Pt cells",
+    "authors": "HK Yoo, SB Lee, JS Lee, SH Chang, MJ Yoon, YS Kim, BS Kang, MJ Lee, ...",
+    "venue": "Applied Physics Letters 98 (18), 2011",
+    "year": "2011",
+    "cited": "51",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:ufrVoPGSRksC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Scaling behaviors of the voltage distribution in dielectric breakdown networks",
+    "authors": "JS Lee, B Kahng",
+    "venue": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 83 (5 …, 2011",
+    "year": "2011",
+    "cited": "3",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:_FxGoFyzp5QC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw",
+     "nw"
+    ]
+   },
+   {
+    "title": "Interface-modified random circuit breaker network model applicable to both bipolar and unipolar resistance switching",
+    "authors": "SB Lee, JS Lee, SH Chang, HK Yoo, BS Kang, B Kahng, MJ Lee, CJ Kim, ...",
+    "venue": "Applied Physics Letters 98 (3), 2011",
+    "year": "2011",
+    "cited": "64",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:WF5omc3nYNoC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Scaling theory for unipolar resistance switching",
+    "authors": "JS Lee, SB Lee, SH Chang, LG Gao, BS Kang, MJ Lee, CJ Kim, TW Noh, ...",
+    "venue": "Physical review letters 105 (20), 205701, 2010",
+    "year": "2010",
+    "cited": "84",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:eQOLeE2rZwMC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Reduction in high reset currents in unipolar resistance switching Pt/SrTiOx/Pt capacitors using acceptor doping",
+    "authors": "SB Lee, A Kim, JS Lee, SH Chang, HK Yoo, TW Noh, B Kahng, MJ Lee, ...",
+    "venue": "Applied Physics Letters 97 (9), 2010",
+    "year": "2010",
+    "cited": "28",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:YsMSGLbcyi4C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Large 1/f noise of unipolar resistance switching and its percolating nature",
+    "authors": "SB Lee, S Park, JS Lee, SC Chae, SH Chang, MH Jung, Y Jo, B Kahng, ...",
+    "venue": "Applied Physics Letters 95 (12), 2009",
+    "year": "2009",
+    "cited": "60",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:Y0pCki6q_DkC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Multilevel unipolar resistance switching in TiO2 thin films",
+    "authors": "SC Chae, JS Lee, WS Choi, SB Lee, SH Chang, H Shin, B Kahng, ...",
+    "venue": "Applied Physics Letters 95 (9), 2009",
+    "year": "2009",
+    "cited": "46",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:Tyk-4Ss8FVUC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Occurrence of both unipolar memory and threshold resistance switching in a NiO film",
+    "authors": "SH Chang, JS Lee, SC Chae, SB Lee, C Liu, B Kahng, DW Kim, TW Noh",
+    "venue": "Physical review letters 102 (2), 026801, 2009",
+    "year": "2009",
+    "cited": "332",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:W7OEmFMy1HYC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Strong resistance nonlinearity and third harmonic generation in the unipolar resistance switching of NiO thin films",
+    "authors": "SB Lee, SC Chae, SH Chang, JS Lee, S Park, Y Jo, S Seo, B Kahng, ...",
+    "venue": "Applied Physics Letters 93 (25), 2008",
+    "year": "2008",
+    "cited": "32",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:UeHWp8X0CEIC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Abnormal resistance switching behaviours of NiO thin films: possible occurrence of both formation and rupturing of conducting channels",
+    "authors": "C Liu, SC Chae, JS Lee, SH Chang, SB Lee, DW Kim, CU Jung, S Seo, ...",
+    "venue": "Journal of Physics D: Applied Physics 42 (1), 015506, 2008",
+    "year": "2008",
+    "cited": "18",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:zYLM7Y9cAGgC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Scaling behaviors of reset voltages and currents in unipolar resistance switching",
+    "authors": "SB Lee, SC Chae, SH Chang, JS Lee, S Seo, B Kahng, TW Noh",
+    "venue": "Applied Physics Letters 93 (21), 2008",
+    "year": "2008",
+    "cited": "129",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:qjMakFHDy7sC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Effects of heat dissipation on unipolar resistance switching in Pt∕ NiO∕ Pt capacitors",
+    "authors": "SH Chang, SC Chae, SB Lee, C Liu, TW Noh, JS Lee, B Kahng, JH Jang, ...",
+    "venue": "Applied Physics Letters 92 (18), 2008",
+    "year": "2008",
+    "cited": "194",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:IjCSPb-OGe4C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Random circuit breaker network model for unipolar resistance switching",
+    "authors": "SC Chae, JS Lee, S Kim, SB Lee, SH Chang, C Liu, B Kahng, H Shin, ...",
+    "venue": "Advanced Materials 20 (6), 1154-1159, 2008",
+    "year": "2008",
+    "cited": "424",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:d1gkVwhDpl0C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "rw"
+    ]
+   },
+   {
+    "title": "Intrinsic degree-correlations in the static model of scale-free networks",
+    "authors": "JS Lee, KI Goh, B Kahng, D Kim",
+    "venue": "The European Physical Journal B-Condensed Matter and Complex Systems 49 (2 …, 2006",
+    "year": "2006",
+    "cited": "56",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XZIobAQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=XZIobAQAAAAJ:2osOgNQ5qMEC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "nw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "YqWzE9sAAAAJ",
+  "label": "권의준 박사님",
+  "name": "Euijoon Kwon",
+  "affiliation": "Research Fellow,Korea Institute for Advanced Study",
+  "interests": [
+   "stochastic thermodynamics",
+   "active matter",
+   "open quantum system"
+  ],
+  "papers": [
+   {
+    "title": "Quantifying information flow along a stochastic trajectory",
+    "authors": "Y Oh, E Kwon, Y Baek",
+    "venue": "arXiv preprint arXiv:2605.13509, 2026",
+    "year": "2026",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:hC7cP41nSMkC",
+    "arxiv": "2605.13509",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "it"
+    ]
+   },
+   {
+    "title": "Nonequilibrium Fluctuation-Response Theory in the Frequency Domain",
+    "authors": "E Kwon, HM Chun, H Park, JS Lee",
+    "venue": "arXiv preprint arXiv:2605.05038, 2026",
+    "year": "2026",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:qUcmZB5y_30C",
+    "arxiv": "2605.05038",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr"
+    ]
+   },
+   {
+    "title": "Fluctuation-Response Theory for Nonequilibrium Langevin Dynamics",
+    "authors": "HM Chun, E Kwon, H Park, JS Lee",
+    "venue": "arXiv preprint arXiv:2601.16387, 2026",
+    "year": "2026",
+    "cited": "4",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:L8Ckcad2t8MC",
+    "arxiv": "2601.16387",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr"
+    ]
+   },
+   {
+    "title": "A Unified Perspective on Thermodynamic Tradeoff Relations",
+    "authors": "권의준",
+    "venue": "서울대학교 대학원, 2026",
+    "year": "2026",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:IWHjjKOFINEC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr"
+    ]
+   },
+   {
+    "title": "Violation of kinetic uncertainty relation in maser heat engines: Role of spontaneous emission",
+    "authors": "V Singh, E Kwon, JS Lee",
+    "venue": "Physical Review A 113 (1), 012212, 2026",
+    "year": "2026",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:7PzlFSSx8tAC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr",
+     "qt"
+    ]
+   },
+   {
+    "title": "A unified framework for classical and quantum uncertainty relations using stochastic representations",
+    "authors": "E Kwon, JS Lee",
+    "venue": "Communications Physics 8 (1), 444, 2025",
+    "year": "2025",
+    "cited": "15",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:_FxGoFyzp5QC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr",
+     "qt"
+    ]
+   },
+   {
+    "title": "Fluctuation-response inequalities for kinetic and entropic perturbations",
+    "authors": "E Kwon, HM Chun, H Park, JS Lee",
+    "venue": "Physical Review Letters 135 (9), 097101, 2025",
+    "year": "2025",
+    "cited": "38",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:zYLM7Y9cAGgC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "fr",
+     "tr"
+    ]
+   },
+   {
+    "title": "Phase separation of chemokinetic active particles",
+    "authors": "E Kwon, Y Oh, Y Baek",
+    "venue": "Communications Physics 8 (1), 288, 2025",
+    "year": "2025",
+    "cited": "3",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:u-x6o8ySG0sC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "am"
+    ]
+   },
+   {
+    "title": "Thermodynamically consistent lattice Monte Carlo method for active particles",
+    "authors": "KW Kim, E Kwon, Y Baek",
+    "venue": "arXiv preprint arXiv:2503.16958, 2025",
+    "year": "2025",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:9ZlFYXVOiuMC",
+    "arxiv": "2503.16958",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "am"
+    ]
+   },
+   {
+    "title": "Quantum Thermodynamics on a limit cycle.",
+    "authors": "V Singh, E Kwon, G Milburn",
+    "venue": "Quantum Science and Technology, 2025",
+    "year": "2025",
+    "cited": "7",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:mVmsd5A6BfQC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "qt"
+    ]
+   },
+   {
+    "title": "Unified hierarchical relationship between thermodynamic tradeoff relations",
+    "authors": "E Kwon, JM Park, JS Lee, Y Baek",
+    "venue": "Physical Review E 110 (4), 044131, 2024",
+    "year": "2024",
+    "cited": "21",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:d1gkVwhDpl0C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "tr"
+    ]
+   },
+   {
+    "title": "Thermodynamically consistent lattice Monte Carlo simulation for active particle system",
+    "authors": "KW Kim, E Kwon, Y Baek",
+    "venue": "APS March Meeting Abstracts 2024, T31. 009, 2024",
+    "year": "2024",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:2osOgNQ5qMEC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "am"
+    ]
+   },
+   {
+    "title": "-divergence improves the entropy production estimation via machine learning",
+    "authors": "E Kwon, Y Baek",
+    "venue": "Physical Review E 109 (1), 014143, 2024",
+    "year": "2024",
+    "cited": "12",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:9yKSN-GCB0IC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ep",
+     "ml"
+    ]
+   },
+   {
+    "title": "Dynamics of self-propelled particles in vibrated dense granular media",
+    "authors": "K Son, Y Choe, E Kwon, LG Rigon, Y Baek, HY Kim",
+    "venue": "Soft Matter 20 (12), 2777-2788, 2024",
+    "year": "2024",
+    "cited": "7",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YqWzE9sAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=YqWzE9sAAAAJ:u5HHmVD_uO8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "am"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "udklDnoAAAAJ",
+  "label": "샤쿨",
+  "name": "Shakul Awasthi",
+  "affiliation": "Research Fellow,Korea Institute for Advanced Study",
+  "interests": [
+   "Statistical physics",
+   "Stochastic thermodynamics"
+  ],
+  "papers": [
+   {
+    "title": "Stochastic intracellular calcium dynamics show preserved structures identified by deep learning classification",
+    "authors": "J Choi, AL Chanu, S Awasthi",
+    "venue": "PLOS Computational Biology 22 (4), e1014240, 2026",
+    "year": "2026",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udklDnoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=udklDnoAAAAJ:W7OEmFMy1HYC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "bs",
+     "ml"
+    ]
+   },
+   {
+    "title": "Thermodynamic anomalies in overdamped systems with time-dependent temperature",
+    "authors": "S Awasthi, H Park, JS Lee",
+    "venue": "Communications Physics 9 (1), 140, 2026",
+    "year": "2026",
+    "cited": "1",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udklDnoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=udklDnoAAAAJ:IjCSPb-OGe4C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "pd"
+    ]
+   },
+   {
+    "title": "Deep learning-based classification of complex intracellular calcium concentration patterns",
+    "authors": "J Choi, A Langlen Chanu, S Awasthi",
+    "venue": "bioRxiv, 2025.08. 31.673312, 2025",
+    "year": "2025",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udklDnoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=udklDnoAAAAJ:Tyk-4Ss8FVUC",
+    "arxiv": "",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "bs",
+     "ml"
+    ]
+   },
+   {
+    "title": "Thermodynamic anomalies of overdamped systems with time-dependent temperature",
+    "authors": "JS Lee, H Park, S Awasthi",
+    "venue": "APS Global Physics Summit 2025, 2025",
+    "year": "2025",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udklDnoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=udklDnoAAAAJ:Y0pCki6q_DkC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "pd"
+    ]
+   },
+   {
+    "title": "Periodically driven thermodynamic systems under vanishingly small viscous drives",
+    "authors": "S Awasthi, SB Dutta",
+    "venue": "Physical Review E 111 (1), 014112, 2025",
+    "year": "2025",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udklDnoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=udklDnoAAAAJ:qjMakFHDy7sC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "pd"
+    ]
+   },
+   {
+    "title": "Oscillating states of driven Langevin systems under large viscous drives",
+    "authors": "S Awasthi, SB Dutta",
+    "venue": "Physical Review E 106 (6), 064116, 2022",
+    "year": "2022",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udklDnoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=udklDnoAAAAJ:9yKSN-GCB0IC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "pd"
+    ]
+   },
+   {
+    "title": "Oscillating states of periodically driven anharmonic Langevin systems",
+    "authors": "S Awasthi, SB Dutta",
+    "venue": "Physical Review E 103 (6), 062143, 2021",
+    "year": "2021",
+    "cited": "6",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udklDnoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=udklDnoAAAAJ:d1gkVwhDpl0C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "pd"
+    ]
+   },
+   {
+    "title": "Periodically driven harmonic Langevin systems",
+    "authors": "S Awasthi, SB Dutta",
+    "venue": "Physical Review E 101 (4), 042106, 2020",
+    "year": "2020",
+    "cited": "3",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=udklDnoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=udklDnoAAAAJ:u-x6o8ySG0sC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "pd"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1eukyIoAAAAJ",
+  "label": "최재성 박사님",
+  "name": "Jaesung Choi",
+  "affiliation": "Korea Institute for Advanced Study(KIAS)",
+  "interests": [
+   "reservoir computing",
+   "deep learning",
+   "chaos"
+  ],
+  "papers": [
+   {
+    "title": "Learning a quantitative criterion for distinguishing chaos from noise",
+    "authors": "J Choi, AL Chanu, JM Park",
+    "venue": "arXiv preprint arXiv:2608.07109, 2026",
+    "year": "2026",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:fEOibwPWpKIC",
+    "arxiv": "2608.07109",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Human brain state classification via permutation entropy of EEG phase dynamics across consciousness levels and inattentive-type ADHD",
+    "authors": "AL Chanu, Y Park, J Choi, Y Cha, UC Lee, JY Moon, JM Park",
+    "venue": "Chaos, Solitons & Fractals 209, 118416, 2026",
+    "year": "2026",
+    "cited": "1",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:kzcrU_BdoSEC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "bs"
+    ]
+   },
+   {
+    "title": "Extrapolating the emergence of Hamiltonian chaos with random-feature Hamiltonian neural networks",
+    "authors": "J Choi",
+    "venue": "arXiv preprint arXiv:2607.28977, 2026",
+    "year": "2026",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:-_dYPAW6P2MC",
+    "arxiv": "2607.28977",
+    "preprint": true,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Stochastic intracellular calcium dynamics show preserved structures identified by deep learning classification",
+    "authors": "J Choi, AL Chanu, S Awasthi",
+    "venue": "PLOS Computational Biology 22 (4), e1014240, 2026",
+    "year": "2026",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:tKAzc9rXhukC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "bs",
+     "ml"
+    ]
+   },
+   {
+    "title": "Unsupervised reservoir computing for multivariate denoising of severely contaminated signals",
+    "authors": "J Choi, P Kim",
+    "venue": "Knowledge-Based Systems, 114574, 2025",
+    "year": "2025",
+    "cited": "5",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:vRqMK49ujn8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Homotopy reservoir computing: Harnessing chaos for computation",
+    "authors": "J Choi, P Kim",
+    "venue": "Chaos: An Interdisciplinary Journal of Nonlinear Science 35 (9), 2025",
+    "year": "2025",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:PR6Y55bgFSsC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Signal–noise separation using unsupervised reservoir computing",
+    "authors": "J Choi, P Kim",
+    "venue": "Chaos: An Interdisciplinary Journal of Nonlinear Science 35 (8), 2025",
+    "year": "2025",
+    "cited": "8",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:bFI3QPDXJZMC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Pd-Modified Microneedle Array Sensor Integration with Deep Learning for Predicting Silica Aerogel Properties in Real Time",
+    "authors": "HS Park, IW Park, D Kim, HY Nah, J Yang, J Yeo, J Choi, J Choi, HH Park, ...",
+    "venue": "ACS Applied Materials & Interfaces 17 (10), 15570-15578, 2025",
+    "year": "2025",
+    "cited": "2",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:JoZmwDi-zQgC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "bs",
+     "ml"
+    ]
+   },
+   {
+    "title": "Reservoir concatenation and the spectrum distribution of concatenated reservoir state matrices",
+    "authors": "J Choi, E Park, B Jang, Y Kim",
+    "venue": "AIP Advances 13 (11), 2023",
+    "year": "2023",
+    "cited": "4",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:aqlVkmm33-oC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Oscillator-based Reservoir Computing and Its Applications",
+    "authors": "J Choi",
+    "venue": "Ulsan National Institute of Science and Technology (UNIST), 2023",
+    "year": "2023",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:_Re3VWB3Y0AC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Early warning for critical transitions using machine-based predictability",
+    "authors": "J Choi, P Kim",
+    "venue": "AIMS Mathematics 7 (11), 20313–20327, 2022",
+    "year": "2022",
+    "cited": "6",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:Tyk-4Ss8FVUC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Reservoir computing based on quenched chaos",
+    "authors": "J Choi, P Kim",
+    "venue": "Chaos, Solitons & Fractals 140, 110131, 2020",
+    "year": "2020",
+    "cited": "26",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:u-x6o8ySG0sC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml"
+    ]
+   },
+   {
+    "title": "Critical neuromorphic computing based on explosive synchronization",
+    "authors": "J Choi, P Kim",
+    "venue": "Chaos: An Interdisciplinary Journal of Nonlinear Science 29 (4), 2019",
+    "year": "2019",
+    "cited": "19",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:u5HHmVD_uO8C",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml",
+     "sy"
+    ]
+   },
+   {
+    "title": "Reservoir computing based on explosive synchronization and quenched chaos",
+    "authors": "J Choi",
+    "venue": "",
+    "year": "",
+    "cited": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1eukyIoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=1eukyIoAAAAJ:35r97b3x0nAC",
+    "arxiv": "",
+    "preprint": false,
+    "first_seen": "",
+    "new": false,
+    "topics": [
+     "ml",
+     "sy"
+    ]
+   }
+  ]
+ }
+]
